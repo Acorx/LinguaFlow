@@ -1,0 +1,16 @@
+# Build
+/target/
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
